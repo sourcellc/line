@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:  http://linetogel.v8.js.cn/sitemap.xml
